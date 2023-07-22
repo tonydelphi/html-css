@@ -37,8 +37,11 @@ section#redes{
     text-align: center;
 }
 section#redes img{
-    width: 50px;
+    width: 40px;
     border-radius: 50%;
     box-shadow: 2px 2px;
-    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+section#redes:hover{
+    border: 1px solid white;
 }
