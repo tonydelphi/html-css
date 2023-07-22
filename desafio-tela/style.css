@@ -37,7 +37,8 @@ section#redes{
     text-align: center;
 }
 section#redes img{
-    width: 40px;
+    width: 60px;
+    margin: 2px;
     border-radius: 50%;
     box-shadow: 2px 2px;
     box-sizing: border-box;
