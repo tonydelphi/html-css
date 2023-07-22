@@ -43,6 +43,8 @@ section#redes img{
     box-shadow: 2px 2px;
     box-sizing: border-box;
 }
-section#redes:hover{
+section#redes img:hover{
     border: 1px solid white;
+    transform: translate(-3px,-3px);
+    transition: transform 0.2s;
 }
